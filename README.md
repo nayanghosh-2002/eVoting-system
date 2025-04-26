@@ -69,7 +69,7 @@ Submit a Pull Request
 Please refer to the CONTRIBUTING.md file for more details.
 
 Contact
-For any questions or issues, please contact aec.cse.nayankumarghosh.email@example.com.
+For any questions or issues, please contact inkgofficial@gmail.com
 
 Acknowledgments
 Ethereum for the blockchain platform
